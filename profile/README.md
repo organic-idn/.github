@@ -9,7 +9,7 @@ sustainabilty living to make their life more cheerful and healty.
 #WeAreOrganic
 
 ## Project Background 👩‍💻
-Based on Rachmi Widiriani presentation, BKP Kementan, 2020, Indonesia has produced 1,6 Ton food waste. There are still many challenges to minimize food loss and waste in Indonesia. 
+Based on Rachmi Widiriani presentation, (BKP Kementan, 2020) Indonesia has produced 1,6 Ton food waste. There are still many challenges to minimize food loss and waste in Indonesia. 
 Start from the production system until the consumer behavior. We design our product to answer our research question, How to implement technology 
 to minimize food loss and waste in Indonesia? We believe that a systematic large ecosystem is the answer to this problem. 
 Because of that we propose Organic. 
